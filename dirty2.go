@@ -1,12 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"io"
-	"io/ioutil"
-	"os"
-)
-
 type BrokenStruct2 struct {
 	hoge string `aabbcc`
 }
