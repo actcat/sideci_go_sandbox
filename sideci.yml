@@ -1,5 +1,6 @@
 linter:
   gometalinter:
+    install_path: github.com/actcat/sideci_go_sandbox
     options:
       disable:
         - gotype
